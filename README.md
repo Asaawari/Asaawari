@@ -68,4 +68,4 @@ My name is Asaawari Sahai. I am 15 years old and I'm a programmer. I'm currently
 
 * <a href="mailto:asaawarisahai.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 * <a href="https://instagram.com/asaawarisahai">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
-* <a href="https://www.linkedin.com/in/devesh-kedia-330936212/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+* <a href="https://www.linkedin.com/in/asaawari-sahai-92b853314/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
