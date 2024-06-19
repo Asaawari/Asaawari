@@ -1,7 +1,3 @@
-[![Header](https://raw.githubusercontent.com/deveshkedia/deveshkedia/master/Header.png)](https://sites.google.com/view/sciencehub123/home)
-
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="15px">
-
 My name is Asaawari Sahai. I am 15 years old and I'm a programmer. I'm currently living in Kolkata, India.
 
 ## 🔧 Technologies & Tools
@@ -31,14 +27,14 @@ My name is Asaawari Sahai. I am 15 years old and I'm a programmer. I'm currently
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asaawari&layout=compact&theme=github_dark&custom_title=My%20Top%20Languages&hide_border=true"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Asaawari&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true&custom_title=My%20GitHub%20Stats&hide_border=true"/>
-<a href="https://github.com/deveshkedia/crwn-clothing">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deveshkedia&repo=crwn-clothing&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/Asaawari/ACE_Website">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Asaawari&repo=ACE_Website&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/deveshkedia/CT_Decode">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deveshkedia&repo=CT_Decode&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/Asaawari/rock_paper_scissors ">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Asaawari&repo=rock_paper_scissors &title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/deveshkedia/CreackTheServer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deveshkedia&repo=CreackTheServer&title_color=eeeeee&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/Asaawari/la_creo_comm">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Asaawari&repo=la_creo_comm&title_color=eeeeee&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
